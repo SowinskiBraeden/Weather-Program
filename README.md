@@ -1,6 +1,6 @@
 # Weather-Program, Capstone Project
 
-### >> [Original Author](https://github.com/nicholasqyn)
+### >> [Original Author](https://github.com/nicholasqy)
 
 Helping a friend on his Weather Program project. The ability to search cities for current weather conditions, while displaying an animated background to match the setting.
 
